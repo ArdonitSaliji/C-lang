@@ -31,7 +31,7 @@ int main(void)
     int mod2;
     do
     {
-        // Remove last digit
+
         mod1 = x % 10;
         x = x / 10;
         sum1 = sum1 + mod1;
