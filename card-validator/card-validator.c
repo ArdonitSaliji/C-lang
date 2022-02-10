@@ -13,6 +13,7 @@ int main(void)
     {
         l = l / 10;
         i++;
+        
     }
     // Check whether length is valid
     if (i != 13 && i != 15 && i != 16)
