@@ -52,7 +52,6 @@ int main(void)
         printf("INVALID\n");
         return 0;
     }
-    // Starting digits
     long start = n;
     do
     {
